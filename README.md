@@ -3,21 +3,29 @@
 
 <h1 align="center" style="font-weight: bold;">Drip Store Backend API 💻</h1>
 <p align="center">
- <a href="#started">Getting Started</a> • 
+ <a href="#started">Começando</a> • 
   <a href="#routes">API Endpoints</a> •
 </p>
 
 <p align="center">
-  <b>Backend da drip store contendo informações de usuários e produtos construído em Nodejs e MySQL.</b>
+  <b>Backend da drip store contendo informações de usuários, categorias e produtos construído em Nodejs e MySQL.</b>
 </p>
+
+<h2 id="tech">💻 Tecnologias</h2>
+
+- Nodejs
+- Expressjs
+- Nodemon
+- JWT
+- Dotenv
+- MySQL
+- Sequelize
 
 <h2 id="started">🚀 Começando</h2>
 
 <p>
   Abaixo estão as orientações e resquisitos necessários para utilizar o projeto localmente na sua máquina.
 </p>
-
-
 
 <h3>Requisitos</h3>
 
